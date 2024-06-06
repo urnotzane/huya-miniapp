@@ -56,8 +56,11 @@
 | 贵族 | 监听开通贵族（hyExt.context.onOpenNobleNotice）<br>关闭监听开通贵族（hyExt.context.offOpenNobleNotice） | 开通月数<br>贵族名<br>用户unionId |
 
 ## 场景结合示例
+一个结合直播事件监听开发的场景示例：
 
+**本文件视频在：[scene_demonstration](./assets/videos/scene_demonstration.mov)**
 
+![scene_demonstration](./assets/images/scene_demonstration.gif)
 
 ## 小程序类型
 
@@ -66,15 +69,16 @@
 在PC 端和 APP 端均是一个弹窗
 ![面板](./assets/images/example_panel.png)
 
-<video width="1000" height="625" controls>
-  <source src="./assets/videos/example_panel.mov" type="video/mov">
-  Your browser does not support the video tag.
-</video>
+**本文件视频在：[example_panel](./assets/videos/example_panel.mov)**
+
+![面板](./assets/images/example_panel.gif)
 
 ### 浮窗
 
 普通开发者没有权限，需要申请进阶及以上权限，浮窗可以设置大小、位置，可以显示在视频区域也可以显示在聊天区域。
 ![浮窗](./assets/images/example_floating.png)
+
+**本文件视频在：[example_floating](./assets/videos/example_floating.mov)**
 
 ![浮窗](./assets/images/example_floating.gif)
 
@@ -84,15 +88,9 @@
 
 使用：普通开发者不可使用，需要向虎牙申请权限
 
-Demo示例：
-<video width="1000" height="625" controls>
-  <source src="./assets/videos/exe_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**本文件视频在：[exe_demo](./assets/videos/exe_demo.mov)**
 
-```
-<iframe width="1000" height="625" src="./assets/videos/exe_demo.mp4" frameborder="0" allowfullscreen></iframe>
-```
+![exe_demo](./assets/images/exe_demo.gif)
 
 ## UI组件
 
