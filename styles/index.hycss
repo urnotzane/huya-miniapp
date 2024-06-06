@@ -1,0 +1,12 @@
+.container {
+  padding: 20px;
+}
+.button {
+  margin-top: 20px;
+}
+.result {
+  margin: 20px;
+}
+.text {
+  margin-top: 10px;
+}
