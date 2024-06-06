@@ -76,10 +76,7 @@
 普通开发者没有权限，需要申请进阶及以上权限，浮窗可以设置大小、位置，可以显示在视频区域也可以显示在聊天区域。
 ![浮窗](./assets/images/example_floating.png)
 
-<video width="1000" height="625" controls>
-  <source src="./assets/videos/example_floating.mov" type="video/mov">
-  Your browser does not support the video tag.
-</video>
+![浮窗](./assets/images/example_floating.gif)
 
 ### 小程序控制直播图层
 
@@ -92,7 +89,10 @@ Demo示例：
   <source src="./assets/videos/exe_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+```
 <iframe width="1000" height="625" src="./assets/videos/exe_demo.mp4" frameborder="0" allowfullscreen></iframe>
+```
 
 ## UI组件
 
