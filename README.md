@@ -70,6 +70,7 @@
   <source src="./assets/videos/example_panel.mov" type="video/mov">
   Your browser does not support the video tag.
 </video>
+<iframe width="1000" height="625" src="./assets/videos/example_panel.mov" frameborder="0" allowfullscreen></iframe>
 
 ### 浮窗
 
