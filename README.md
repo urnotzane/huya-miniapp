@@ -70,7 +70,6 @@
   <source src="./assets/videos/example_panel.mov" type="video/mov">
   Your browser does not support the video tag.
 </video>
-<iframe width="1000" height="625" src="./assets/videos/example_panel.mov" frameborder="0" allowfullscreen></iframe>
 
 ### 浮窗
 
@@ -93,6 +92,7 @@ Demo示例：
   <source src="./assets/videos/exe_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<iframe width="1000" height="625" src="./assets/videos/exe_demo.mp4" frameborder="0" allowfullscreen></iframe>
 
 ## UI组件
 
